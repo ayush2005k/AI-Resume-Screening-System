@@ -58,9 +58,9 @@ Recruiters often receive a large number of resumes and need to quickly identify 
 
 ## 📊 Live Dashboard (Google Sheets)
 
-👉 https://docs.google.com/spreadsheets/d/your-link-here
+👉 https://docs.google.com/spreadsheets/d/1YVnklsSAxhKkCE6CR4Nj9UgTz1EdjfzH-JJdWsIbjtY/edit?gid=0#gid=0
 
-*(Ensure access is set to “Anyone with the link can view”)*
+
 
 ---
 
