@@ -1,0 +1,2 @@
+We are looking for a Python developer with knowledge of machine learning,
+SQL, and data analysis. Experience with deep learning is a plus.

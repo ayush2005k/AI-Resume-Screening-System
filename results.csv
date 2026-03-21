@@ -1,0 +1,31 @@
+Rank,Name,Final Score,Score,Keyword %,Strengths,Gaps,Recommendation
+1,ayush_resume (1).pdf,85.17299999999999,90,73.91,"• Strong foundations in Python, data analysis, and machine learning
+• Experience with exploratory data analysis, model evaluation, and working with structured datasets
+• Relevant projects such as Deepfake Detection and experience with machine learning","• Limited experience with deep learning
+• No direct experience with the specific job requirements mentioned
+• Limited professional experience overall",Move to the next round for an interview to further assess the candidate's skills and experience
+2,computer-science-resume-example.pdf,76.871,80,69.57,"• Strong educational background in Computer Science
+• Experience with Python and relevant frameworks such as Django
+• Project experience with machine learning using scikit-learn","• Limited direct experience with deep learning
+• No explicit mention of data analysis experience
+• No direct experience with SQL databases as required by the job description","Consider this candidate for an entry-level Python developer role, providing training and support to fill gaps in deep learning and data analysis"
+3,computer-science-internship-resume-example.pdf,75.566,80,65.22,"• Experience with Python and natural language processing
+• Strong educational background in Computer Science
+• Relevant work experience as a Research Assistant","• Limited experience with machine learning and deep learning
+• No direct experience with SQL in a professional setting
+• No mention of data analysis experience",Move to the next round of interviews to further assess the candidate's skills and experience with machine learning and data analysis
+4,computer-engineering-resume-example.pdf,43.650999999999996,40,52.17,"• strong background in computer engineering
+• experience with data analysis using MATLAB
+• 熟悉多种软件开发工具","• lack of direct experience with Python
+• no explicit mention of machine learning experience
+• 未提及深度学习经验",consider additional training or coursework in Python and machine learning to enhance candidacy
+5,computer-science-student-resume-example.pdf,43.650999999999996,40,52.17,"• Strong educational background in Computer Science
+• Experience with multiple programming languages
+• Leadership and mentoring experience","• Lack of experience with Python
+• No direct experience with machine learning or deep learning
+• Missing relevant technical skills for the job description","Consider taking courses or gaining experience in Python, machine learning, and data analysis to be a more competitive candidate"
+6,computer-technician-resume-example.pdf,29.651,20,52.17,"• Strong technical support background
+• Experience with IT infrastructure management
+• Familiarity with various software tools","• Lack of direct experience with Python development
+• No mention of machine learning or deep learning experience
+• Limited exposure to data analysis and SQL","Consider additional training or education in Python development, machine learning, and data analysis to enhance candidacy"
