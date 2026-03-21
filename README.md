@@ -93,18 +93,13 @@ ai-resume/
 
 ### 🔐 1. Set Groq API Key (IMPORTANT)
 
-Replace the API key line in your code with environment variable usage
+To run this project, you need to set your Groq API key as an environment variable.
 
+```
 api_key = os.getenv("GROQ_API_KEY")
-present in utils.py
-
-#### PowerShell:
-
 ```
-$env:GROQ_API_KEY="your_api_key_here"
-```
-
-#### CMD:
+replace the above code 
+present in utils.py, to below code to make it working
 
 ```
 set GROQ_API_KEY=your_api_key_here
