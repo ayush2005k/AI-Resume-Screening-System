@@ -96,13 +96,13 @@ ai-resume/
 To run this project, you need to set your Groq API key as an environment variable.
 
 ```
-api_key = os.getenv("GROQ_API_KEY")
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 ```
 replace the above code 
 present in utils.py, to below code to make it working
 
 ```
-set GROQ_API_KEY=your_api_key_here
+client = Groq(api_key="gsk_your_actual_key_here")
 ```
 
 ---
