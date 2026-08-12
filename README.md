@@ -1,4 +1,4 @@
-# AI-Powered Resume Screening System 🚀(fixing it)
+# AI-Powered Resume Screening System 🚀
 
 An automated candidate evaluation pipeline that ranks resumes against a Job Description (JD) using **Groq LLaMA 3.3** and provides structured insights in a **Google Sheets dashboard**.
 
